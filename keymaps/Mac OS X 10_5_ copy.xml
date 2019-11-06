@@ -15,10 +15,14 @@
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="RunDashboard.Debug" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
