@@ -1,0 +1,7 @@
+<list display="Main Actions">
+  <action id="DeviceAndSnapshotComboBox" />
+  <action id="RunConfiguration" />
+  <action id="Android.SyncProject" />
+  <action id="Android.RunAndroidAvdManager" />
+  <action id="Android.RunAndroidSdkManager" />
+</list>
