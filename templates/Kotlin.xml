@@ -4,4 +4,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="mjf" value="@field:Json(name = &quot;$NAME$&quot;) val $NAME$: $END$" description="moshi json field" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
