@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="RecyclerView Adapter.kt" reformat="true" live-template-enabled="true" />
+      <template name="Test Suite.kt" reformat="false" live-template-enabled="true" />
+    </default_templates>
+  </component>
+</application>

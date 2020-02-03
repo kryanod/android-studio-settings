@@ -1,0 +1,7 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="javax.xml" />
+    <EXCLUDED_PACKAGE NAME="org.omg" />
+    <EXCLUDED_PACKAGE NAME="org.xml" />
+  </component>
+</application>
