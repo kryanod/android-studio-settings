@@ -14,6 +14,9 @@
   <action id="QuickList.Main Actions">
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
+  <action id="RebuildGradleProject">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="RunDashboard.Debug" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl v" />
