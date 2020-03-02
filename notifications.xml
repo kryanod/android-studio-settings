@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Kotlin plugin updates" displayType="NONE" />
   </component>
 </application>
