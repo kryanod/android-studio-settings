@@ -5,4 +5,5 @@
   <action id="Android.RunAndroidAvdManager" />
   <action id="Android.RunAndroidSdkManager" />
   <action id="ActivateBuildVariantsToolWindow" />
+  <action id="Git.ResolveConflicts" />
 </list>
