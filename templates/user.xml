@@ -1,8 +1,10 @@
 <templateSet group="user">
-  <template name="callback" value="interface Callback {&#10;    fun on$FIELD$Changed()&#10;    fun on$FIELD$Error(error: Throwable)&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="callback" value="interface Callback {&#10;    fun on$FIELD$()&#10;    fun on$FIELD$Error(error: Throwable)&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
 </templateSet>
