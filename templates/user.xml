@@ -17,7 +17,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="before" value="@Before&#10;fun setUp() {&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="before" value="@org.junit.Before&#10;fun setUp() {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
@@ -27,7 +27,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="instanttask" value="@Rule&#10;@JvmField&#10;var instantRule = InstantTaskExecutorRule()" description="" toReformat="false" toShortenFQNames="true">
+  <template name="instanttask" value="@org.junit.Rule&#10;@JvmField&#10;var instantRule = InstantTaskExecutorRule()" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
