@@ -32,4 +32,15 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="integration" value="@org.robolectric.annotation.Config(sdk = [org.robolectric.annotation.Config.OLDEST_SDK])&#10;@org.junit.runner.RunWith(androidx.test.ext.junit.runners.AndroidJUnit4::class)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="activitytestrule" value="@get:org.junit.Rule&#10;var rule = androidx.test.rule.ActivityTestRule($ACTIVITY_NAME$::class.java)" toReformat="false" toShortenFQNames="true">
+    <variable name="ACTIVITY_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
