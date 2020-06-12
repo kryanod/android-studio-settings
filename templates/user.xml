@@ -27,7 +27,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="instanttask" value="@org.junit.Rule&#10;@JvmField&#10;var instantRule = InstantTaskExecutorRule()" description="" toReformat="false" toShortenFQNames="true">
+  <template name="instanttask" value="@org.junit.Rule&#10;@JvmField&#10;var instantRule = androidx.arch.core.executor.testing.InstantTaskExecutorRule()" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
