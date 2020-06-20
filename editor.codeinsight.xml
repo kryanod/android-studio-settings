@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="javax.xml" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="kotlin.io.print" />
     <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="org.xml" />
   </component>
