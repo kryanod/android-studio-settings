@@ -48,7 +48,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="log" value="println(&quot;$END$&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="println(&quot;$END$&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
