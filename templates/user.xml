@@ -7,7 +7,7 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="runwith" value="@RunWith(JUnit4::class)" description="" toReformat="true" toShortenFQNames="true">
+  <template name="runwith" value="@org.junit.runner.RunWith(org.junit.runners.JUnit4::class)" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
