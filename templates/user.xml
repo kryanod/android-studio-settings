@@ -53,9 +53,10 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="event" value="ru.m2.squaremeter.core.analytics.Event(&quot;$END$&quot;)" description="Analytics event class" toReformat="false" toShortenFQNames="true">
+  <template name="event" value="class $NAME$: ru.m2.squaremeter.core.analytics.Event(&quot;$END$&quot;)" description="Analytics event class" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
 </templateSet>
