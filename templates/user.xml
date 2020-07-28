@@ -12,7 +12,7 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
-  <template name="mockito" value="@Rule&#10;@JvmField&#10;var mockitoRule: MockitoRule = MockitoJUnit.rule()" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mockito" value="@org.junit.Rule&#10;@JvmField&#10;var mockitoRule: org.mockito.junit.MockitoRule = org.mockito.junit.MockitoJUnit.rule()" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
@@ -22,7 +22,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="mock" value="@Mock&#10;lateinit var" description="" toReformat="false" toShortenFQNames="true">
+  <template name="mock" value="@org.mockito.Mock&#10;lateinit var $END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
