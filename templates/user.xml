@@ -53,7 +53,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="event" value="ru.m2.squaremeter.core.analytics.Event($END$)" description="Analytics event class" toReformat="false" toShortenFQNames="true">
+  <template name="event" value="ru.m2.squaremeter.core.analytics.Event(&quot;$END$&quot;)" description="Analytics event class" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
