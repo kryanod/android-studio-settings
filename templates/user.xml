@@ -59,4 +59,39 @@
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
   </template>
+  <template name="bodyl" value="android:textAppearance=&quot;@style/BodyL&quot;" description="textAppearance BodyL" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="bodym" value="android:textAppearance=&quot;@style/BodyM&quot;" description="textAppearance BodyM" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="h1" value="android:textAppearance=&quot;@style/H1&quot;" description="textAppearance H1" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="h2" value="android:textAppearance=&quot;@style/H2&quot;" description="textAppearance H2" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="bodylb" value="android:textAppearance=&quot;@style/BodyLB&quot;" description="textAppearance BodyLB" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="bodymb" value="android:textAppearance=&quot;@style/BodyMB&quot;" description="textAppearance BodyMB" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+  <template name="bodys" value="android:textAppearance=&quot;@style/BodyS&quot;" description="textAppearance BodyS" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
 </templateSet>
