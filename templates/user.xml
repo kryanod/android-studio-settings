@@ -104,4 +104,9 @@
       <option name="XML_ATTRIBUTE" value="true" />
     </context>
   </template>
+  <template name="bodysb" value="android:textAppearance=&quot;@style/BodySB&quot;" description="textAppearance BodySB" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
 </templateSet>
