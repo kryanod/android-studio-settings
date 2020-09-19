@@ -109,12 +109,12 @@
       <option name="XML_ATTRIBUTE" value="true" />
     </context>
   </template>
-  <template name="inject" value="@javax.inject.Inject&#10;lateinit var $END$" toReformat="false" toShortenFQNames="true">
+  <template name="inject" value="@javax.inject.Inject&#10;lateinit var $END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="minject" value="fun inject(target: $END$)" toReformat="false" toShortenFQNames="true">
+  <template name="minject" value="fun inject(target: $END$)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
