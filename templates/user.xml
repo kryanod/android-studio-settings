@@ -109,4 +109,9 @@
       <option name="XML_ATTRIBUTE" value="true" />
     </context>
   </template>
+  <template name="inject" value="@javax.inject.Inject&#10;lateinit var $END$" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
