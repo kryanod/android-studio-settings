@@ -119,7 +119,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="ababa" value="println(&quot;ABABA $END$&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="ababa" value="println(&quot;ABABA $END$&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
