@@ -124,12 +124,12 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="provides" value="@dagger.Provides&#10;fun provide" toReformat="false" toShortenFQNames="true">
+  <template name="provides" value="@dagger.Provides&#10;fun provide" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="iinject" value="init {&#10;    ru.m2.squaremeter.core.di.di.inject(this)&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="iinject" value="init {&#10;    ru.m2.squaremeter.core.di.di.inject(this)&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
