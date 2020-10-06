@@ -3,6 +3,7 @@
     <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
     <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
+    <notification groupId="Gradle KTS build files" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="Kotlin plugin updates" displayType="NONE" />
   </component>
