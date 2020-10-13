@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="android.content.res.Resources" />
     <EXCLUDED_PACKAGE NAME="java.util.Observer" />
     <EXCLUDED_PACKAGE NAME="javax.xml" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
