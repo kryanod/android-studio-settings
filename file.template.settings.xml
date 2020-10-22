@@ -2,6 +2,8 @@
   <component name="ExportableFileTemplateSettings">
     <default_templates>
       <template name="Fragment.kt" reformat="true" live-template-enabled="true" />
+      <template name="ViewModel.kt" reformat="true" live-template-enabled="true" />
+      <template name="ViewModelFactory.kt" reformat="true" live-template-enabled="true" />
     </default_templates>
   </component>
 </application>
