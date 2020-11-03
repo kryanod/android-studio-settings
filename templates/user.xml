@@ -147,7 +147,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="parameterized" value="companion object {&#10;        @JvmStatic&#10;        @org.junit.runners.Parameterized.Parameters&#10;        fun data(): Collection&lt;Array&lt;Any&gt;&gt; = listOf(&#10;            arrayOf($END$),&#10;        )&#10;    }" toReformat="true" toShortenFQNames="true">
+  <template name="parameterized" value="companion object {&#10;        @JvmStatic&#10;        @org.junit.runners.Parameterized.Parameters&#10;        fun data(): Collection&lt;Array&lt;Any&gt;&gt; = listOf(&#10;            arrayOf($END$),&#10;        )&#10;    }" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
