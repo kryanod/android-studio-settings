@@ -7,7 +7,6 @@
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="sh" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
-      <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
