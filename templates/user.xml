@@ -152,7 +152,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="jsonclass" value="@com.squareup.moshi.JsonClass(generateAdapter = true)" toReformat="true" toShortenFQNames="true">
+  <template name="jsonclass" value="@com.squareup.moshi.JsonClass(generateAdapter = true)" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN_TOPLEVEL" value="true" />
     </context>
