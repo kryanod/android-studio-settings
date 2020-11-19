@@ -167,4 +167,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="viewmodeltest" value="@org.junit.Rule&#10;@JvmField&#10;var instantRule = androidx.arch.core.executor.testing.InstantTaskExecutorRule()&#10;    &#10;private lateinit var viewModel: $NAME$ViewModel&#10;private lateinit var stateLiveData: com.jraska.livedata.TestObserver&lt;$NAME$State&gt;&#10;private lateinit var errorLiveData: com.jraska.livedata.TestObserver&lt;String&gt;&#10;&#10;@org.junit.Before&#10;fun setUp() {&#10;    viewModel = $NAME$ViewModel()&#10;    stateLiveData = viewModel.stateLiveData.test()&#10;    errorLiveData = viewModel.errorLiveData.test()&#10;}" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
