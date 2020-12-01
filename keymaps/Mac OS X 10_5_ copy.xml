@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
