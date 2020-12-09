@@ -173,4 +173,10 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="findviewbyid" value="private val $NAME$ = rootView.findViewById&lt;$END$&gt;(R.id.$NAME$)" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
