@@ -1,0 +1,5 @@
+<application>
+  <component name="PinDeviceService">
+    <option name="pinnedDevices" value="[{&quot;id&quot;:&quot;192.168.50.194:5555&quot;,&quot;serialNumber&quot;:&quot;0A091FDD4006L4&quot;,&quot;name&quot;:&quot;Google Pixel 5&quot;,&quot;address&quot;:&quot;192.168.50.194&quot;,&quot;androidVersion&quot;:&quot;11&quot;,&quot;apiLevel&quot;:&quot;30&quot;}]" />
+  </component>
+</application>
