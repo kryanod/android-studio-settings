@@ -179,4 +179,14 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="prifalse" value="primaryButton.isEnabled = false" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="pritrue" value="primaryButton.isEnabled = true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+    </context>
+  </template>
 </templateSet>
