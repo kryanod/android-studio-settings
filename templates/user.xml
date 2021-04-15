@@ -131,7 +131,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="singleliveevent" value="private val mutable$NAME$LiveData = arloid.SingleLiveEvent&lt;$TYPE$&gt;()&#10;val $NAME2$LiveData: androidx.lifecycle.LiveData&lt;$TYPE$&gt; = mutable$NAME$LiveData" description="SingleLiveEvent" toReformat="true" toShortenFQNames="true">
+  <template name="singleliveevent" value="private val mutable$NAME$LiveData = arloid.SingleLiveEvent&lt;$TYPE$&gt;()&#10;val $NAME2$LiveData: androidx.lifecycle.LiveData&lt;$TYPE$&gt; get() = mutable$NAME$LiveData" description="SingleLiveEvent" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME2" expression="camelCase(NAME)" defaultValue="" alwaysStopAt="true" />
@@ -139,7 +139,7 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
-  <template name="livedata" value="private val mutable$NAME$LiveData = androidx.lifecycle.MutableLiveData&lt;$TYPE$&gt;()&#10;val $NAME2$LiveData: androidx.lifecycle.LiveData&lt;$TYPE$&gt; = mutable$NAME$LiveData" description="pair of MutableLiveData and LiveData" toReformat="true" toShortenFQNames="true">
+  <template name="livedata" value="private val mutable$NAME$LiveData = androidx.lifecycle.MutableLiveData&lt;$TYPE$&gt;()&#10;val $NAME2$LiveData: androidx.lifecycle.LiveData&lt;$TYPE$&gt; get() = mutable$NAME$LiveData" description="pair of MutableLiveData and LiveData" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="NAME2" expression="camelCase(NAME)" defaultValue="" alwaysStopAt="true" />
