@@ -3,6 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app-unique/src/main/res/layout/fragment_climate.xml" value="0.13797814207650272" />
+        <entry key="app-unique/src/main/res/layout/fragment_scanner.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_dialog.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_inside_dialog.xml" value="0.13797814207650272" />
