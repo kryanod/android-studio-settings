@@ -2,12 +2,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="presentation/src/main/res/layout/error.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_dialog.xml" value="0.13797814207650272" />
+        <entry key="presentation/src/main/res/layout/error_inside_dialog.xml" value="0.13797814207650272" />
+        <entry key="presentation/src/main/res/layout/error_snack_bar.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/fragment_feedback.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/fragment_feedback_form.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/fragment_feedback_resend.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/fragment_log_in.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/item_building.xml" value="0.13797814207650272" />
+        <entry key="presentation/src/main/res/layout/seekbar.xml" value="0.13797814207650272" />
+        <entry key="presentation/src/main/res/layout/toolbar.xml" value="0.13797814207650272" />
       </map>
     </option>
   </component>
