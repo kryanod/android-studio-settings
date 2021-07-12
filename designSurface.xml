@@ -9,6 +9,7 @@
         <entry key="app-business/src/main/res/layout/fragment_ai_settings_zones.xml" value="0.13797814207650272" />
         <entry key="app-unique/src/main/res/layout/fragment_climate.xml" value="0.13797814207650272" />
         <entry key="app-unique/src/main/res/layout/fragment_scanner.xml" value="0.13797814207650272" />
+        <entry key="middleware/search-ui/src/main/res/layout/search_layout.xml" value="0.5" />
         <entry key="presentation/src/main/res/layout/error.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_dialog.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_inside_dialog.xml" value="0.13797814207650272" />
