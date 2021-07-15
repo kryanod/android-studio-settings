@@ -20,6 +20,7 @@
         <entry key="feature/mortgage/src/main/res/layout/calculator_main_fragment.xml" value="0.1" />
         <entry key="feature/newbuildings/src/main/res/layout/item_building_snippet.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/item_detail_new_building_flats.xml" value="0.2078125" />
+        <entry key="feature/newbuildings/src/main/res/layout/item_detail_new_building_option.xml" value="0.2078125" />
         <entry key="feature/newbuildings/src/main/res/layout/item_new_building_details_buildings.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/viewholder_building.xml" value="0.207421875" />
         <entry key="middleware/search-ui/src/main/res/layout/search_layout.xml" value="0.5" />
