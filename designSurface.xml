@@ -21,6 +21,7 @@
         <entry key="feature/newbuildings/src/main/res/layout/item_building_snippet.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/item_detail_new_building_flats.xml" value="0.148224043715847" />
         <entry key="feature/newbuildings/src/main/res/layout/item_new_building_details_buildings.xml" value="0.3013888888888889" />
+        <entry key="feature/newbuildings/src/main/res/layout/viewholder_building.xml" value="0.207421875" />
         <entry key="middleware/search-ui/src/main/res/layout/search_layout.xml" value="0.5" />
         <entry key="presentation/src/main/res/layout/error.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_dialog.xml" value="0.13797814207650272" />
