@@ -22,6 +22,7 @@
         <entry key="feature/mortgage/src/main/res/layout/fragment_extended_calculator.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/buildings_fragment.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/dialog_special_events.xml" value="0.3013888888888889" />
+        <entry key="feature/newbuildings/src/main/res/layout/fragment_buildings.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/fragment_standalone_buildings.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/item_building_snippet.xml" value="0.3013888888888889" />
         <entry key="feature/newbuildings/src/main/res/layout/item_detail_new_building_flats.xml" value="0.2078125" />
