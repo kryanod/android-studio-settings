@@ -10,6 +10,8 @@
         <entry key="app-unique/src/main/res/layout/fragment_climate.xml" value="0.13797814207650272" />
         <entry key="app-unique/src/main/res/layout/fragment_scanner.xml" value="0.13797814207650272" />
         <entry key="core/ui/src/main/res/drawable/card_outlined.xml" value="0.33194444444444443" />
+        <entry key="core/ui/src/main/res/drawable/rect_control_3_corners.xml" value="0.21875" />
+        <entry key="core/ui/src/main/res/drawable/rect_control_3_corners_big.xml" value="0.21875" />
         <entry key="core/ui/src/main/res/drawable/rect_outlined_gray_corners_big.xml" value="0.33194444444444443" />
         <entry key="core/ui/src/main/res/drawable/rect_outlined_white_corners_small.xml" value="0.33194444444444443" />
         <entry key="core/ui/src/main/res/drawable/ripple_rect_control_3_corners_big.xml" value="0.33194444444444443" />
