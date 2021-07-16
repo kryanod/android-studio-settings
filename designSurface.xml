@@ -5,6 +5,7 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app-business/src/main/res/layout/activity.xml" value="0.13797814207650272" />
         <entry key="app-business/src/main/res/layout/fragment_ai_confirmation_dialog.xml" value="0.13797814207650272" />
+        <entry key="app-business/src/main/res/layout/fragment_ai_dialog.xml" value="0.28055555555555556" />
         <entry key="app-business/src/main/res/layout/fragment_ai_settings.xml" value="0.13797814207650272" />
         <entry key="app-business/src/main/res/layout/fragment_ai_settings_zones.xml" value="0.13797814207650272" />
         <entry key="app-business/src/main/res/layout/fragment_settings.xml" value="0.28055555555555556" />
@@ -39,6 +40,7 @@
         <entry key="presentation/src/main/res/layout/error_dialog.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_inside_dialog.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/error_snack_bar.xml" value="0.13797814207650272" />
+        <entry key="presentation/src/main/res/layout/fragment_authentication_settings.xml" value="0.28055555555555556" />
         <entry key="presentation/src/main/res/layout/fragment_feedback.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/fragment_feedback_form.xml" value="0.13797814207650272" />
         <entry key="presentation/src/main/res/layout/fragment_feedback_resend.xml" value="0.13797814207650272" />
