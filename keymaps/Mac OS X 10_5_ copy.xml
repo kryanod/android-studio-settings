@@ -17,6 +17,9 @@
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="QuickList.Main Actions">
     <keyboard-shortcut first-keystroke="meta quote" />
