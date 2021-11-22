@@ -6,6 +6,7 @@
     <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
     <notification groupId="Gradle KTS build files" displayType="NONE" shouldLog="false" />
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
     <notification groupId="Kotlin plugin updates" displayType="NONE" />
   </component>
 </application>
