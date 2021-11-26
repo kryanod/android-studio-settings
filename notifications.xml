@@ -8,5 +8,7 @@
     <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
     <notification groupId="Kotlin plugin updates" displayType="NONE" />
+    <notification groupId="Plugins Suggestion" displayType="NONE" />
+    <notification groupId="Plugins updates" displayType="NONE" />
   </component>
 </application>
