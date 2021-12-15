@@ -19,9 +19,9 @@
     <mask>*.java</mask>
     <mask>*Fragment.kt</mask>
     <mask>*Adapter.kt</mask>
-    <mask>*.xml</mask>
     <mask>*Test.kt</mask>
     <mask>*.kts</mask>
+    <mask>*.xml</mask>
     <mask>*.kt</mask>
   </component>
 </application>
