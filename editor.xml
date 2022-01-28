@@ -14,6 +14,7 @@
     <EXCLUDED_PACKAGE NAME="org.omg" />
     <EXCLUDED_PACKAGE NAME="org.xml" />
     <EXCLUDED_PACKAGE NAME="res" />
+    <EXCLUDED_PACKAGE NAME="res" />
   </component>
   <component name="DefaultFont">
     <option name="USE_LIGATURES" value="true" />
