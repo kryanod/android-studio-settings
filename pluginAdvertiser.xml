@@ -1393,6 +1393,11 @@
                       <FeaturePluginData displayName="Remote JVM Debug" pluginName="Java" pluginId="com.intellij.java" />
                     </value>
                   </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
                   <entry key="Tox">
                     <value>
                       <FeaturePluginData displayName="tox" pluginName="Python Community Edition" pluginId="PythonCore" />
