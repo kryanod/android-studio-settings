@@ -12,6 +12,17 @@
         <target value="Android API 33" />
         <api value="33" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0A091FDD4006L4" />
+          </Key>
+        </key>
+        <name value="Google Pixel 5" />
+        <target value="Android API 33" />
+        <api value="33" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
