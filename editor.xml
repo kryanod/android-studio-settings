@@ -16,10 +16,12 @@
     <EXCLUDED_PACKAGE NAME="res" />
     <EXCLUDED_PACKAGE NAME="res" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-    <option name="USE_LIGATURES" value="true" />
+  <component name="CodeVisionSettings">
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
