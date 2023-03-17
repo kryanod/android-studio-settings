@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:progulka" />
     <option name="nonFavorites">
       <list>
+        <option value="package:progulka" />
         <option value="http" />
         <option value="ABABA" />
         <option value="okhttp" />
