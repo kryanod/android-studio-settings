@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ABABA" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
         <option value="ABABA" />
         <option value="ФИФИФ" />
         <option value="package:progulka tag:ABABA" />
         <option value="package:progulka" />
         <option value="http" />
-        <option value="okhttp" />
       </list>
     </option>
   </component>
