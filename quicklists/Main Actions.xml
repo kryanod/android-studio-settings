@@ -1,9 +1,7 @@
 <list display="Main Actions">
   <action id="DeviceAndSnapshotComboBox" />
   <action id="RunConfiguration" />
-  <action id="Android.RunAndroidAvdManager" />
+  <action id="Android.DeviceManager" />
   <action id="Android.RunAndroidSdkManager" />
   <action id="Android.RunLayoutInspector" />
-  <action id="Git.ResolveConflicts" />
-  <action id="ActivateTestFairyToolWindow" />
 </list>

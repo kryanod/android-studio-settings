@@ -1,0 +1,10 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="DebugClass" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="QuickList.Main Actions">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+</keymap>
