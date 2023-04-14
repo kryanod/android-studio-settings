@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="PROGULKALOG" />
     <option name="nonFavorites">
       <list>
+        <option value="PROGULKALOG" />
         <option value="okhttp" />
         <option value="PROGULKAL" />
-        <option value="PROGULKALOG" />
         <option value="PROGULKA" />
         <option value="tag:&quot;PROGULKA&quot;" />
         <option value="tag:PROGULKA" />
