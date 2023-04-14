@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="okhttp" />
+        <option value="package:progulka" />
         <option value="ABABA" />
         <option value="ФИФИФ" />
         <option value="package:progulka tag:ABABA" />
-        <option value="package:progulka" />
         <option value="http" />
       </list>
     </option>
