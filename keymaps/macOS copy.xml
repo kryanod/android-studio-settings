@@ -1,11 +1,34 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="DebugClass" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="List-selectPreviousColumn">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="MakeGradleProject">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="NavBar-selectLeft">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
   <action id="QuickList.Main Actions">
     <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="SaveAll" />
+  <action id="SegmentedButton-left">
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="Tree-selectParent">
+    <keyboard-shortcut first-keystroke="left" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
