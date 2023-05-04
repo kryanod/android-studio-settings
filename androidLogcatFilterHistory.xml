@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="PlayerService" />
     <option name="nonFavorites">
       <list>
+        <option value="PlayerService" />
         <option value="okhttp" />
         <option value="ABABA" />
         <option value="GeoRepository" />
