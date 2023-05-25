@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Tinkoff Acquiring SDK" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
-        <option value="Tinkoff Acquiring SDK" />
         <option value="okhttp" />
+        <option value="Tinkoff Acquiring SDK" />
         <option value="ABABA" />
         <option value="PlayerService" />
         <option value="GeoRepository" />
