@@ -4,13 +4,14 @@
     <option name="nonFavorites">
       <list>
         <option value="okhttp" />
+        <option value="&quot;has&quot;:false" />
+        <option value="PROGULKALOG" />
         <option value="level:error " />
         <option value="ExcursionPurchaseFragment" />
         <option value="Tinkoff Acquiring SDK" />
         <option value="ABABA" />
         <option value="PlayerService" />
         <option value="GeoRepository" />
-        <option value="PROGULKALOG" />
         <option value="PROGULKAL" />
         <option value="PROGULKA" />
         <option value="tag:&quot;PROGULKA&quot;" />
