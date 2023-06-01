@@ -27,9 +27,13 @@
   <action id="SegmentedButton-left">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="Tree-selectParent">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
