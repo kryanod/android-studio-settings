@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
         <option value="okhttp" />
+        <option value="level:error " />
         <option value="&quot;has&quot;:false" />
         <option value="PROGULKALOG" />
         <option value="ExcursionPurchaseFragment" />
