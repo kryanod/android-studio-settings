@@ -10,7 +10,7 @@
         </key>
         <name value="Google Pixel 5" />
         <target value="Android API 33" />
-        <api value="33" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,18 @@
         </key>
         <name value="Google Pixel 5" />
         <target value="Android API 33" />
-        <api value="33" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="1B111FDEE0066D" />
+          </Key>
+        </key>
+        <name value="Google Pixel 6 Pro" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
