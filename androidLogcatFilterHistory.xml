@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="[Coordinates]" />
     <option name="nonFavorites">
       <list>
+        <option value="[Coordinates]" />
         <option value="okhttp" />
         <option value="ABABA" />
         <option value="level:error " />
