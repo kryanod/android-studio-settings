@@ -4,12 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="okhttp" />
+        <option value="PROGULKALOG" />
         <option value="GetAllExcursions" />
         <option value="level:error " />
         <option value="[Coordinates]" />
         <option value="ABABA" />
         <option value="&quot;has&quot;:false" />
-        <option value="PROGULKALOG" />
         <option value="ExcursionPurchaseFragment" />
         <option value="Tinkoff Acquiring SDK" />
         <option value="PlayerService" />
