@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="PROGULKALOG" />
     <option name="nonFavorites">
       <list>
+        <option value="PROGULKALOG" />
         <option value="package:mine " />
         <option value="okhttp" />
         <option value="okhtt" />
-        <option value="PROGULKALOG" />
         <option value="GetAllExcursions" />
         <option value="level:error " />
         <option value="[Coordinates]" />
