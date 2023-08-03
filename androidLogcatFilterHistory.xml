@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="start" />
     <option name="nonFavorites">
       <list>
+        <option value="start" />
         <option value="okhttp" />
         <option value="level:error" />
         <option value="PROGULKALOG" />
@@ -22,7 +23,6 @@
         <option value="tag:&quot;PROGULKA&quot;" />
         <option value="tag:PROGULKA" />
         <option value="package:progulka" />
-        <option value="ФИФИФ" />
       </list>
     </option>
   </component>
