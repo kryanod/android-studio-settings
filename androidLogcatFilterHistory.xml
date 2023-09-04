@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="[MapFragm" />
+    <option name="mostRecentlyUsed" value="[Activity]" />
     <option name="nonFavorites">
       <list>
+        <option value="[Activity]" />
         <option value="[MapFragm" />
         <option value="level:error " />
         <option value="start" />
@@ -22,7 +23,6 @@
         <option value="PROGULKAL" />
         <option value="PROGULKA" />
         <option value="tag:&quot;PROGULKA&quot;" />
-        <option value="tag:PROGULKA" />
       </list>
     </option>
   </component>
