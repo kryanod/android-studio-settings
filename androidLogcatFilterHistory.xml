@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="[Activity]" />
+    <option name="mostRecentlyUsed" value="[ABABA]" />
     <option name="nonFavorites">
       <list>
+        <option value="[ABABA]" />
         <option value="[Activity]" />
         <option value="[MapFragm" />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="GeoRepository" />
         <option value="PROGULKAL" />
         <option value="PROGULKA" />
-        <option value="tag:&quot;PROGULKA&quot;" />
       </list>
     </option>
   </component>
