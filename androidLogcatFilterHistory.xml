@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="[ABABA]" />
+    <option name="mostRecentlyUsed" value="PROGULKALOG" />
     <option name="nonFavorites">
       <list>
+        <option value="PROGULKALOG" />
+        <option value="package:mine " />
         <option value="[ABABA]" />
         <option value="[Activity]" />
         <option value="[MapFragm" />
@@ -10,8 +12,6 @@
         <option value="start" />
         <option value="okhttp" />
         <option value="level:error" />
-        <option value="PROGULKALOG" />
-        <option value="package:mine " />
         <option value="okhtt" />
         <option value="GetAllExcursions" />
         <option value="[Coordinates]" />
