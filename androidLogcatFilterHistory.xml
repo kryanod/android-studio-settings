@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PROGULKALOG" />
+    <option name="mostRecentlyUsed" value="AudioPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="AudioPlayer" />
         <option value="PROGULKALOG" />
         <option value="package:mine " />
         <option value="[ABABA]" />
@@ -22,7 +23,6 @@
         <option value="PlayerService" />
         <option value="GeoRepository" />
         <option value="PROGULKAL" />
-        <option value="PROGULKA" />
       </list>
     </option>
   </component>
