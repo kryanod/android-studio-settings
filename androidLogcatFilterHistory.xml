@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AudioPlayer" />
+    <option name="mostRecentlyUsed" value="PlayerService" />
     <option name="nonFavorites">
       <list>
+        <option value="PlayerService" />
+        <option value="level:error " />
         <option value="AudioPlayer" />
         <option value="PROGULKALOG" />
         <option value="package:mine " />
         <option value="[ABABA]" />
         <option value="[Activity]" />
         <option value="[MapFragm" />
-        <option value="level:error " />
         <option value="start" />
         <option value="okhttp" />
         <option value="level:error" />
@@ -20,7 +21,6 @@
         <option value="&quot;has&quot;:false" />
         <option value="ExcursionPurchaseFragment" />
         <option value="Tinkoff Acquiring SDK" />
-        <option value="PlayerService" />
         <option value="GeoRepository" />
         <option value="PROGULKAL" />
       </list>
