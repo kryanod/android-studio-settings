@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ProgulkaL" />
+    <option name="mostRecentlyUsed" value="okhtt" />
     <option name="nonFavorites">
       <list>
+        <option value="okhtt" />
         <option value="ProgulkaL" />
         <option value="PlayerService" />
         <option value="level:error " />
@@ -15,7 +16,6 @@
         <option value="start" />
         <option value="okhttp" />
         <option value="level:error" />
-        <option value="okhtt" />
         <option value="GetAllExcursions" />
         <option value="[Coordinates]" />
         <option value="ABABA" />
