@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tinkoff" />
     <option name="nonFavorites">
       <list>
+        <option value="tinkoff" />
         <option value="okhtt" />
         <option value="ProgulkaL" />
         <option value="PlayerService" />
@@ -22,7 +23,6 @@
         <option value="&quot;has&quot;:false" />
         <option value="ExcursionPurchaseFragment" />
         <option value="Tinkoff Acquiring SDK" />
-        <option value="GeoRepository" />
       </list>
     </option>
   </component>
