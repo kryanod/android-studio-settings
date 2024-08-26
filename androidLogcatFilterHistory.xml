@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="ABABA" />
     <option name="nonFavorites">
       <list>
+        <option value="ABABA" />
         <option value="okhttp" />
         <option value="level:error " />
         <option value="tinkoff" />
@@ -19,7 +20,6 @@
         <option value="level:error" />
         <option value="GetAllExcursions" />
         <option value="[Coordinates]" />
-        <option value="ABABA" />
         <option value="&quot;has&quot;:false" />
         <option value="ExcursionPurchaseFragment" />
         <option value="Tinkoff Acquiring SDK" />
