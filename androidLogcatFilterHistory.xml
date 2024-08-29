@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ABABA" />
+    <option name="mostRecentlyUsed" value="okhtt" />
     <option name="nonFavorites">
       <list>
+        <option value="okhtt" />
         <option value="ABABA" />
+        <option value="ABAB" />
+        <option value="is:error " />
         <option value="okhttp" />
         <option value="level:error " />
         <option value="tinkoff" />
-        <option value="okhtt" />
         <option value="ProgulkaL" />
         <option value="PlayerService" />
         <option value="AudioPlayer" />
@@ -21,8 +23,6 @@
         <option value="GetAllExcursions" />
         <option value="[Coordinates]" />
         <option value="&quot;has&quot;:false" />
-        <option value="ExcursionPurchaseFragment" />
-        <option value="Tinkoff Acquiring SDK" />
       </list>
     </option>
   </component>
