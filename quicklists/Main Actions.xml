@@ -1,4 +1,5 @@
 <list display="Main Actions">
+  <action id="ChooseRunConfiguration" />
   <action id="DeviceAndSnapshotComboBox" />
   <action id="RunConfiguration" />
   <action id="Android.DeviceManager" />
