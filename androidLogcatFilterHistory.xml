@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhtt" />
+    <option name="mostRecentlyUsed" value="ABABA" />
     <option name="nonFavorites">
       <list>
-        <option value="okhtt" />
         <option value="ABABA" />
+        <option value="okhtt" />
         <option value="ABAB" />
         <option value="is:error " />
         <option value="okhttp" />
