@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ABABA" />
+    <option name="mostRecentlyUsed" value="okhttp" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp" />
         <option value="ABABA" />
         <option value="okhtt" />
         <option value="ABAB" />
         <option value="is:error " />
-        <option value="okhttp" />
         <option value="level:error " />
         <option value="tinkoff" />
         <option value="ProgulkaL" />
