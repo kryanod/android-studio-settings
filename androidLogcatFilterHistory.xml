@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="okhttp" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="token" />
         <option value="okhttp" />
         <option value="ABABA" />
         <option value="okhtt" />
@@ -22,7 +23,6 @@
         <option value="level:error" />
         <option value="GetAllExcursions" />
         <option value="[Coordinates]" />
-        <option value="&quot;has&quot;:false" />
       </list>
     </option>
   </component>
