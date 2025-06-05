@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ABABA" />
+    <option name="mostRecentlyUsed" value="simple" />
     <option name="nonFavorites">
       <list>
-        <option value="ABABA" />
         <option value="simple" />
+        <option value="simplenote" />
+        <option value="ABABA" />
         <option value="okhttp" />
         <option value="token" />
         <option value="okhtt" />
@@ -22,7 +23,6 @@
         <option value="[MapFragm" />
         <option value="start" />
         <option value="level:error" />
-        <option value="GetAllExcursions" />
       </list>
     </option>
   </component>
