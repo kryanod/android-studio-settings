@@ -1,16 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="simple" />
+    <option name="mostRecentlyUsed" value="ABABA" />
     <option name="nonFavorites">
       <list>
+        <option value="ABABA" />
+        <option value="com.google.android.googlequicksearchbox" />
+        <option value="music" />
+        <option value="is:error " />
+        <option value="Activity" />
+        <option value="ActivityManager" />
         <option value="simple" />
         <option value="simplenote" />
-        <option value="ABABA" />
         <option value="okhttp" />
         <option value="token" />
         <option value="okhtt" />
         <option value="ABAB" />
-        <option value="is:error " />
         <option value="level:error " />
         <option value="tinkoff" />
         <option value="ProgulkaL" />
@@ -19,10 +23,6 @@
         <option value="PROGULKALOG" />
         <option value="package:mine " />
         <option value="[ABABA]" />
-        <option value="[Activity]" />
-        <option value="[MapFragm" />
-        <option value="start" />
-        <option value="level:error" />
       </list>
     </option>
   </component>
