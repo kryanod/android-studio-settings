@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ABABA" />
+    <option name="mostRecentlyUsed" value="package:mine -tag:EGL_emulation -tag:yandex.maps" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine -tag:EGL_emulation -tag:yandex.maps" />
+        <option value="package:mine -tag:EGL_emulation" />
+        <option value="package:mine --tag:EGL_emulation" />
+        <option value="package:fm.freewalk -app_time_stats" />
+        <option value="package:fm.freewalk ~tag:app_time_stats" />
+        <option value="package:fm.freewalk tag~:app_time_stats" />
+        <option value="package:fm.freewalk tag:app_time_stats" />
+        <option value="package:fm.freewalk -tag:app_time_stats" />
         <option value="ABABA" />
         <option value="com.google.android.googlequicksearchbox" />
         <option value="music" />
@@ -15,14 +23,6 @@
         <option value="token" />
         <option value="okhtt" />
         <option value="ABAB" />
-        <option value="level:error " />
-        <option value="tinkoff" />
-        <option value="ProgulkaL" />
-        <option value="PlayerService" />
-        <option value="AudioPlayer" />
-        <option value="PROGULKALOG" />
-        <option value="package:mine " />
-        <option value="[ABABA]" />
       </list>
     </option>
   </component>
