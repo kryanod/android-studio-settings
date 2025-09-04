@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine -tag:EGL_emulation -tag:yandex.maps" />
+    <option name="favorites">
+      <list>
+        <option value="package:mine tag=:ProgulkaLog tag=:Choreographer tag=:okhttp.OkHttpClient" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="package:mine tag=:ProgulkaLog tag=:Choreographer tag=:okhttp.OkHttpClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:ProgulkaLog tag=:Choreographer tag=:" />
+        <option value="package:mine tag=:ProgulkaLog tag=:" />
+        <option value="package:mine " />
         <option value="package:mine -tag:EGL_emulation -tag:yandex.maps" />
         <option value="package:mine -tag:EGL_emulation" />
         <option value="package:mine --tag:EGL_emulation" />
@@ -20,9 +28,6 @@
         <option value="simple" />
         <option value="simplenote" />
         <option value="okhttp" />
-        <option value="token" />
-        <option value="okhtt" />
-        <option value="ABAB" />
       </list>
     </option>
   </component>
