@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag=:ProgulkaLog tag=:Choreographer tag=:okhttp.OkHttpClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:fm.freewalk" />
         <option value="package:mine " />
         <option value="package:mine tag=:ProgulkaLog tag=:Choreographer tag=:" />
         <option value="package:mine tag=:ProgulkaLog tag=:" />
@@ -27,7 +28,6 @@
         <option value="ActivityManager" />
         <option value="simple" />
         <option value="simplenote" />
-        <option value="okhttp" />
       </list>
     </option>
   </component>
