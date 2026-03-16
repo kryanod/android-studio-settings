@@ -33,6 +33,7 @@
   <action id="Tree-selectParent">
     <keyboard-shortcut first-keystroke="left" />
   </action>
+  <action id="UsageFiltering.ReadAccess" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
