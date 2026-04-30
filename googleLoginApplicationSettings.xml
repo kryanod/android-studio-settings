@@ -6,7 +6,9 @@
         <entry key="kryanod@gmail.com">
           <value>
             <set>
+              <option value="GiAS" />
               <option value="User Info" />
+              <option value="Notifications" />
             </set>
           </value>
         </entry>

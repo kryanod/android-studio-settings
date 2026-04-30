@@ -2,12 +2,12 @@
   <component name="StudioBotSettings">
     <option name="chatModelId">
       <ModelIdState>
-        <option name="groupName" value="Ollama" />
-        <option name="id" value="11434/qwen2.5-coder:32b" />
-        <option name="providerName" value="Local" />
+        <option name="id" value="&lt;Default&gt;" />
+        <option name="providerName" value="Gemini" />
       </ModelIdState>
     </option>
     <option name="contextSharingModeV2" value="AlwaysShare" />
+    <option name="onboardedVersion" value="3" />
     <option name="previewAttachingEnabled" value="true" />
   </component>
 </application>
